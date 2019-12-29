@@ -1,0 +1,17 @@
+{
+	"name": "thebotbloglib",
+	"description": "A library that can be used to create bots for social media such as Facebook.",
+	"authors": [
+		"Jacob Jensen"
+	],
+	"homepage": "https://github.com/TheBotBlog/",
+	"license": "The MIT License (MIT)",
+	"copyright": "Copyright © 2019 The Bot Blog",
+	"targetType": "sourceLibrary",
+	"sourcePaths": ["source"],
+	"dependencies": {
+		"vibe-d": {
+			"version": "~>0.8.3"
+		}
+	}
+}
